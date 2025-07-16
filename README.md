@@ -8,7 +8,7 @@ Great! Based on the content from your **Vaishnavisinha4th.docx** file, I've crea
 📍 Ghaziabad, Uttar Pradesh, India  
 📞 +91 – 8287521198  
 📧 [vaishnavisinha476@gmail.com](mailto:vaishnavisinha476@gmail.com)  
-🐱 GitHub | 💼 [LinkedIn](https://linkedin.com/in/vaishnavi-sinha-ai)
+🐱 GitHub | 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-sinha-952111259/)
 
 ---
 
