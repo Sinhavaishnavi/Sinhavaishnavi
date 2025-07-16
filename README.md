@@ -8,7 +8,8 @@
 📞 +91 – 8287521198  
 📧 [vaishnavisinha476@gmail.com](mailto:vaishnavisinha476@gmail.com)  
 🐱 GitHub | 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-sinha-952111259/)
-
+PORTFOLIO(https://sinhavaishnavi.github.io/PROFILE-WEBSITE/
+)
 ---
 
 
