@@ -1,16 +1,50 @@
-## Hi there 👋
+Great! Based on the content from your **Vaishnavisinha4th.docx** file, I've created a clean and professional **README.md** format suitable for your **GitHub profile**.
 
-<!--
-**Sinhavaishnavi/Sinhavaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 Vaishnavi Sinha  
+**AI Enthusiast | Machine Learning Developer | Full-Stack Learner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Ghaziabad, Uttar Pradesh, India  
+📞 +91 – 8287521198  
+📧 [vaishnavisinha476@gmail.com](mailto:vaishnavisinha476@gmail.com)  
+🐱 GitHub | 💼 [LinkedIn](https://linkedin.com/in/vaishnavi-sinha-ai)
+
+---
+
+
+
+
+
+### 🔧 Technical Skills
+
+**Languages:** Python, R  
+**Web Technologies:** HTML, CSS, JavaScript, MySQL, Flask  
+**Data Analysis & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Regression, Classification, Clustering, EDA, Model Tuning  
+**Deep Learning:** TensorFlow, Keras, CNNs, OpenCV, Image Classification, Transfer Learning  
+**Design & UI Tools:** Figma, Canva, Responsive Web Design  
+**Version Control:** Git, GitHub  
+**Development Platforms:** Jupyter Notebook, Google Colab, VS Code  
+**NLP & GPT Tools:** ChatGPT, Prompt Engineering, NLP Concepts
+
+---
+
+### 🏆 Additional Achievements
+
+- ✅ Completed **Deloitte Data Analytics Virtual Internship** (Forage Program)
+- 🏅 Participated in **Shell.ai Hackathon 2025** (Fuel Blend ML Challenge)
+- 🌐 Shared educational UI designs and ML project demos on LinkedIn
+- 📦 Active GitHub contributor with end-to-end ML deployment projects
+- 🎨 Published **responsive UI/UX designs** for personal portfolio web apps
+- 🗣️ Fluent in English & Hindi | Strong communication skills
+
+---
+
+### 📫 Let's Connect!
+
+[GitHub](https://github.com/vaishnavisinha4) | [LinkedIn](https://linkedin.com/in/vaishnavi-sinha-ai) | [Email](mailto:vaishnavisinha476@gmail.com)
+
+---
+
+
