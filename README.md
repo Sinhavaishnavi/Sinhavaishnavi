@@ -1,9 +1,9 @@
-Great! Based on the content from your **Vaishnavisinha4th.docx** file, I've created a clean and professional **README.md** format suitable for your **GitHub profile**.
+
 
 ---
 
 ## 👩‍💻 Vaishnavi Sinha  
-**AI Enthusiast | Machine Learning Developer | Full-Stack Learner**
+**AI Enthusiast | Machine Learning Developer | Data Analysts **
 
 📍 Ghaziabad, Uttar Pradesh, India  
 📞 +91 – 8287521198  
