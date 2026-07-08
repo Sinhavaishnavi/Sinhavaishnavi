@@ -4,9 +4,7 @@
 ## 👩‍💻 Vaishnavi Sinha  
 **AI Enthusiast | Machine Learning Developer | Data Analysts **
 
-📍 Ghaziabad, Uttar Pradesh, India  
-📞 +91 – 8287521198  
-📧 [vaishnavisinha476@gmail.com](mailto:vaishnavisinha476@gmail.com)  
+📍 Ghaziabad, Uttar Pradesh, India   
 🐱 GitHub | 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-sinha-952111259/)
 PORTFOLIO(https://sinhavaishnavi.github.io/PROFILE-WEBSITE/
 )
